@@ -86,7 +86,6 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 9. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
 10. once the project is bulild 
-![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
 11. click on debug option 
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
@@ -97,7 +96,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 ![image](https://user-images.githubusercontent.com/36288975/227599356-9c465b7e-6bd0-436b-b4e8-742ed25e06ce.png)
 
 14. click on UART and click on connect 
-![image](https://user-images.githubusercontent.com/36288975/227599458-26976d4a-f2d4-49f0-a49f-31f46eb15761.png)
+
 
 15. once it is connected , click on Erasing and programming option 
 
